@@ -1,6 +1,6 @@
-import 'aos/dist/aos.css';
+
 import AOS from 'aos';
-import 'aos/dist/aos.css';
+import "/node_modules/aos/dist/aos.css";
 import './App.css'
 import FotoVicttoria from './assets/Foto de perfil para redes sociais gradiente simples (10).png';
 import Porfile from "./assets/react.svg";
