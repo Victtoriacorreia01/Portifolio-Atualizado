@@ -1,7 +1,7 @@
 {
-  "homepage": "https://github.com/Victtoriacorreia01/Portifolio-Atualizado",
-  "name": "portvic",
-  "private": true,
+  "homepage": "https://victtoriacorreia01.github.io/Portifolio-Atualizado/",
+  "name": "Portifolio-Atualizado",
+  "private": false,
   "version": "0.0.0",
   "type": "module",
   "scripts": {

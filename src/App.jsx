@@ -283,7 +283,7 @@ function App() {
           </div>
         </div>
       </section>
-      <div class="grid grid-cols-2 gap-8">
+      <div className="grid grid-cols-2 gap-8">
       <section id='experiencia' className='py-10 mt-12'>
         <div className='container m-auto px-4'>
           <h2 data-aos="fade-right" className='text-2xl font-semibold text-center'>Educação</h2>
